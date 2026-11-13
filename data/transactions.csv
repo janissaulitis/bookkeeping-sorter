@@ -1,0 +1,667 @@
+date,description,amount,category,vat_rate,new_supplier
+2025-11-03,Officeday.lv pasūtījums 286351,-105.13,Office supplies,0.21,False
+2025-11-03,Bolt ride 80D579,-5.95,Travel,0.12,False
+2025-11-05,Zoom.us 62X105,-14.0,Software and subscriptions,0.21,False
+2025-11-05,VIADA DUS 7403,-44.02,Fuel and car,0.21,False
+2025-11-05,Bolt ride 26Z789,-9.56,Travel,0.12,False
+2025-11-07,Komisijas maksa par maksājumu,-0.98,Bank fees,0.0,False
+2025-11-08,RESTORANS LIDO 5030,-100.23,Meals and hospitality,0.21,False
+2025-11-09,ADOBE *CREATIVE CLD,-60.0,Software and subscriptions,0.21,False
+2025-11-09,Komisija par konta apkalpošanu,-6.0,Bank fees,0.0,False
+2025-11-09,Pārskaitījums uz savu kontu,-1339.46,Owner transfers,0.0,False
+2025-11-10,VID VSAOI un IIN 2025-11,-1544.31,Taxes,0.0,False
+2025-11-11,Maksājums par rēķinu 4564 Tallinn Digital OÜ,2796.03,Sales income,0.21,False
+2025-11-11,CIRCLE K LATVIA 5131 RIGA,-67.51,Fuel and car,0.21,False
+2025-11-13,BTA apdrošināšana polise 896788,-45.0,Insurance,0.0,False
+2025-11-14,CIRCLE K LATVIA 7344 RIGA,-73.16,Fuel and car,0.21,False
+2025-11-14,Alga Ilze Bērziņa 2025-11,-1559.98,Salaries,0.0,False
+2025-11-14,Alga M. Ozols 11/25,-1220.71,Salaries,0.0,False
+2025-11-15,Maksājums par rēķinu Nr.8786 SIA Ziemeļu Būve,770.85,Sales income,0.21,False
+2025-11-15,LMT rēķins 11/25,-59.46,Phone and internet,0.21,False
+2025-11-15,Alga A. Kalnina 2025-11,-1913.24,Salaries,0.0,False
+2025-11-16,Maksājums par rēķinu 1109 Nordic Freight AS,3943.13,Sales income,0.21,False
+2025-11-16,SIA Biroju Centrs nomas maksa novembris,-850.0,Rent,0.21,False
+2025-11-16,Grāmatvedības pakalpojumi SIA Skaitļi 2025-11,-220.0,Accounting and legal,0.21,False
+2025-11-17,Rīgas ūdens 244604,-26.06,Utilities,0.21,False
+2025-11-17,GOOGLE *Workspace 61A561,-41.22,Software and subscriptions,0.21,False
+2025-11-17,FACEBK *ADS 16B458,-346.89,Marketing,0.21,False
+2025-11-17,Komisijas maksa par maksājumu,-1.46,Bank fees,0.0,False
+2025-11-18,Payment invoice 8271 Tallinn Digital OÜ,1970.47,Sales income,0.21,False
+2025-11-18,Payment invoice Nr.6594 SIA Ziemeļu Būve,3572.5,Sales income,0.21,False
+2025-11-18,Tet internets 690401,-25.0,Phone and internet,0.21,False
+2025-11-18,Microsoft*365 76D954,-22.0,Software and subscriptions,0.21,False
+2025-11-18,CANVA* 51X688,-12.0,Software and subscriptions,0.21,False
+2025-11-18,Kredīta atmaksa līgums 689956,-420.0,Loan repayment,0.0,False
+2025-11-19,GOOGLE *ADS777883,-140.51,Marketing,0.21,False
+2025-11-20,Payment invoice 1312 SIA Mežaparka Klīnika,434.39,Sales income,0.21,False
+2025-11-20,Darba alga Anna Kalniņa,-1447.86,Salaries,0.0,False
+2025-11-21,Maksājums par rēķinu 4305 SIA Ziemeļu Būve,3863.53,Sales income,0.21,False
+2025-11-21,Neste 3132 Jelgava,-39.35,Fuel and car,0.21,False
+2025-11-22,Payment invoice 8839 Baltic Retail Group,1759.89,Sales income,0.21,False
+2025-11-22,Elektrum rēķins 803150,-111.48,Utilities,0.21,False
+2025-11-22,VIADA DUS 5882,-34.84,Fuel and car,0.21,False
+2025-11-22,SIA Drukas Nams reklāmas materiāli,-528.99,Marketing,0.21,False
+2025-11-24,VID PVN maksājums 11/25,-1734.52,Taxes,0.0,False
+2025-11-25,Maksājums par rēķinu Nr.1614 SIA Ziemeļu Būve,2534.86,Sales income,0.21,False
+2025-11-25,CIRCLE K LATVIA 1426 RIGA,-59.24,Fuel and car,0.21,False
+2025-11-25,Komisijas maksa par maksājumu,-1.37,Bank fees,0.0,False
+2025-11-26,Maksājums par rēķinu 7650 Baltic Retail Group,2632.54,Sales income,0.21,False
+2025-11-27,CIRCLE K LATVIA 4125 RIGA,-56.66,Fuel and car,0.21,False
+2025-11-27,Kafejnīca Kūkotava 5252,-24.24,Meals and hospitality,0.21,False
+2025-11-28,Maksājums par rēķinu 6420 SIA Ziemeļu Būve,4162.31,Sales income,0.21,False
+2025-11-28,Maksājums par rēķinu INV-7881 SIA Ziemeļu Būve,1864.87,Sales income,0.21,False
+2025-11-28,Maksājums par rēķinu Nr.3576 SIA Ziemeļu Būve,4060.64,Sales income,0.21,False
+2025-12-02,Maksājums par rēķinu 4846 SIA Mežaparka Klīnika,3465.14,Sales income,0.21,False
+2025-12-02,Elektrum rēķins 970535,-130.57,Utilities,0.21,False
+2025-12-02,GOOGLE *Workspace 74Y314,-50.09,Software and subscriptions,0.21,False
+2025-12-03,Kafejnīca Kūkotava 8567,-11.15,Meals and hospitality,0.21,False
+2025-12-03,FACEBK *ADS 72Z680,-326.74,Marketing,0.21,False
+2025-12-04,Neste 6806 Jelgava,-58.48,Fuel and car,0.21,False
+2025-12-05,Payment invoice INV-3139 SIA Mežaparka Klīnika,4123.5,Sales income,0.21,False
+2025-12-05,BTA apdrošināšana polise 219459,-45.0,Insurance,0.0,False
+2025-12-05,Komisijas maksa par maksājumu,-1.49,Bank fees,0.0,False
+2025-12-06,Zoom.us 91X330,-14.0,Software and subscriptions,0.21,False
+2025-12-06,CIRCLE K LATVIA 4890 RIGA,-55.08,Fuel and car,0.21,False
+2025-12-06,CIRCLE K LATVIA 5516 RIGA,-62.46,Fuel and car,0.21,False
+2025-12-06,CIRCLE K LATVIA 9800 RIGA,-48.32,Fuel and car,0.21,False
+2025-12-06,Bolt ride 31X148,-15.42,Travel,0.12,False
+2025-12-06,RESTORANS LIDO 4587,-68.72,Meals and hospitality,0.21,False
+2025-12-06,Alga Mārtiņš Ozols 12/25,-946.21,Salaries,0.0,False
+2025-12-07,Maksājums par rēķinu INV-8065 SIA Ziemeļu Būve,3121.59,Sales income,0.21,False
+2025-12-07,Maksājums par rēķinu 2898 Tallinn Digital OÜ,2837.67,Sales income,0.21,False
+2025-12-07,Payment invoice INV-7265 Tallinn Digital OÜ,891.79,Sales income,0.21,False
+2025-12-07,VIADA DUS 9606,-37.95,Fuel and car,0.21,False
+2025-12-07,SIA Drukas Nams reklāmas materiāli,-266.85,Marketing,0.21,False
+2025-12-07,Komisijas maksa par maksājumu,-1.41,Bank fees,0.0,False
+2025-12-09,GOOGLE *ADS517239,-290.85,Marketing,0.21,False
+2025-12-11,VIADA DUS 5153,-64.88,Fuel and car,0.21,False
+2025-12-12,Rīgas ūdens 634608,-30.72,Utilities,0.21,False
+2025-12-12,ADOBE *CREATIVE CLD,-60.0,Software and subscriptions,0.21,False
+2025-12-12,DEPO DIY 4814,-59.79,Office supplies,0.21,False
+2025-12-12,Bolt ride 28Z815,-12.29,Travel,0.12,False
+2025-12-12,VID PVN maksājums decembris,-546.17,Taxes,0.0,False
+2025-12-15,Payment invoice Nr.3013 Baltic Retail Group,2432.37,Sales income,0.21,False
+2025-12-16,Maksājums par rēķinu INV-7688 SIA Ziemeļu Būve,2665.99,Sales income,0.21,False
+2025-12-16,Maksājums par rēķinu Nr.1169 Tallinn Digital OÜ,351.65,Sales income,0.21,False
+2025-12-16,Microsoft*365 69A954,-22.0,Software and subscriptions,0.21,False
+2025-12-17,Maksājums par rēķinu INV-4586 SIA Daugavas Viesnīca,2405.93,Sales income,0.21,False
+2025-12-17,LMT rēķins 12/25,-62.44,Phone and internet,0.21,False
+2025-12-18,Officeday.lv pasūtījums 436606,-76.62,Office supplies,0.21,False
+2025-12-18,VID VSAOI un IIN 2025-12,-1813.25,Taxes,0.0,False
+2025-12-19,Payment invoice Nr.9278 SIA Daugavas Viesnīca,2835.85,Sales income,0.21,False
+2025-12-21,CANVA* 13C559,-12.0,Software and subscriptions,0.21,False
+2025-12-21,Pārskaitījums uz savu kontu,-1312.55,Owner transfers,0.0,False
+2025-12-22,Alga Anna Kalniņa 12/25,-1434.47,Salaries,0.0,False
+2025-12-24,Tet internets 990977,-25.0,Phone and internet,0.21,False
+2025-12-24,Alga A. Kalnina decembris,-1651.79,Salaries,0.0,False
+2025-12-24,Komisijas maksa par maksājumu,-1.4,Bank fees,0.0,False
+2025-12-25,Maksājums par rēķinu Nr.9491 SIA Daugavas Viesnīca,3410.22,Sales income,0.21,False
+2025-12-26,SIA Biroju Centrs nomas maksa decembris,-850.0,Rent,0.21,False
+2025-12-26,Grāmatvedības pakalpojumi SIA Skaitļi 2025-12,-220.0,Accounting and legal,0.21,False
+2025-12-27,Maksājums par rēķinu INV-2755 SIA Daugavas Viesnīca,3967.99,Sales income,0.21,False
+2025-12-27,CIRCLE K LATVIA 2952 RIGA,-86.82,Fuel and car,0.21,False
+2025-12-27,Komisija par konta apkalpošanu,-6.0,Bank fees,0.0,False
+2025-12-28,Maksājums par rēķinu INV-5779 SIA Mežaparka Klīnika,1358.82,Sales income,0.21,False
+2025-12-28,Kredīta atmaksa līgums 361133,-420.0,Loan repayment,0.0,False
+2026-01-01,Maksājums par rēķinu Nr.5557 Nordic Freight AS,2883.55,Sales income,0.21,False
+2026-01-01,Alga Mārtiņš Ozols janvāris,-1350.88,Salaries,0.0,False
+2026-01-02,LMT rēķins janvāris,-41.17,Phone and internet,0.21,False
+2026-01-03,Bolt ride 13B928,-5.48,Travel,0.12,False
+2026-01-04,VID PVN maksājums janvāris,-587.51,Taxes,0.0,False
+2026-01-05,Payment invoice Nr.1156 SIA Daugavas Viesnīca,1131.65,Sales income,0.21,False
+2026-01-05,Payment invoice 3525 SIA Mežaparka Klīnika,3679.45,Sales income,0.21,False
+2026-01-05,Tet internets 426950,-25.0,Phone and internet,0.21,False
+2026-01-05,VID VSAOI un IIN janvāris,-1260.52,Taxes,0.0,False
+2026-01-07,Maksājums par rēķinu 8700 Nordic Freight AS,1117.9,Sales income,0.21,False
+2026-01-07,Payment invoice INV-5983 SIA Ziemeļu Būve,301.84,Sales income,0.21,False
+2026-01-07,Payment invoice 1254 SIA Kurzemes Maiznīca,2572.67,Sales income,0.21,False
+2026-01-07,CIRCLE K LATVIA 1664 RIGA,-56.14,Fuel and car,0.21,False
+2026-01-07,Neste 1592 Jelgava,-76.19,Fuel and car,0.21,False
+2026-01-07,Komisijas maksa par maksājumu,-0.56,Bank fees,0.0,False
+2026-01-08,Maksājums par rēķinu Nr.6345 Nordic Freight AS,2638.51,Sales income,0.21,False
+2026-01-08,Elektrum rēķins 614850,-119.19,Utilities,0.21,False
+2026-01-09,CIRCLE K LATVIA 9519 RIGA,-80.2,Fuel and car,0.21,False
+2026-01-09,BTA apdrošināšana polise 338298,-45.0,Insurance,0.0,False
+2026-01-10,GOOGLE *Workspace 15Y854,-41.74,Software and subscriptions,0.21,False
+2026-01-10,VIADA DUS 5364,-62.46,Fuel and car,0.21,False
+2026-01-11,Maksājums par rēķinu Nr.1248 Nordic Freight AS,639.86,Sales income,0.21,False
+2026-01-11,CIRCLE K LATVIA 8059 RIGA,-71.3,Fuel and car,0.21,False
+2026-01-12,Komisijas maksa par maksājumu,-0.37,Bank fees,0.0,False
+2026-01-13,Grāmatvedības pakalpojumi SIA Skaitļi 01/26,-220.0,Accounting and legal,0.21,False
+2026-01-15,Maksājums par rēķinu 4086 Nordic Freight AS,3408.38,Sales income,0.21,False
+2026-01-16,RESTORANS LIDO 3692,-91.58,Meals and hospitality,0.21,False
+2026-01-16,FACEBK *ADS 58A651,-128.33,Marketing,0.21,False
+2026-01-16,Alga A. Kalnina 2026-01,-1025.86,Salaries,0.0,False
+2026-01-17,Maksājums par rēķinu 2768 Nordic Freight AS,1427.26,Sales income,0.21,False
+2026-01-17,Alga Mārtiņš Ozols 2026-01,-1159.41,Salaries,0.0,False
+2026-01-18,Maksājums par rēķinu Nr.8402 SIA Kurzemes Maiznīca,3641.77,Sales income,0.21,False
+2026-01-18,SIA Biroju Centrs nomas maksa janvāris,-850.0,Rent,0.21,False
+2026-01-18,Rīgas ūdens 313887,-29.11,Utilities,0.21,False
+2026-01-18,Zoom.us 71A335,-14.0,Software and subscriptions,0.21,False
+2026-01-18,Kafejnīca Kūkotava 9924,-17.49,Meals and hospitality,0.21,False
+2026-01-18,GOOGLE *ADS824552,-416.45,Marketing,0.21,False
+2026-01-20,ADOBE *CREATIVE CLD,-60.0,Software and subscriptions,0.21,False
+2026-01-20,Kredīta atmaksa līgums 940649,-420.0,Loan repayment,0.0,False
+2026-01-21,Maksājums par rēķinu INV-3580 SIA Kurzemes Maiznīca,3181.77,Sales income,0.21,False
+2026-01-21,DEPO DIY 6249,-88.68,Office supplies,0.21,False
+2026-01-21,Komisija par konta apkalpošanu,-6.0,Bank fees,0.0,False
+2026-01-22,Microsoft*365 83A739,-22.0,Software and subscriptions,0.21,False
+2026-01-22,CANVA* 96X307,-12.0,Software and subscriptions,0.21,False
+2026-01-22,CIRCLE K LATVIA 1679 RIGA,-52.35,Fuel and car,0.21,False
+2026-01-22,Komisijas maksa par maksājumu,-0.88,Bank fees,0.0,False
+2026-01-24,Officeday.lv pasūtījums 107053,-74.32,Office supplies,0.21,False
+2026-01-25,VIADA DUS 7040,-37.04,Fuel and car,0.21,False
+2026-01-25,Autoserviss Pārdaugava SIA,-197.55,Fuel and car,0.21,False
+2026-01-26,Maksājums par rēķinu Nr.5970 Baltic Retail Group,1026.08,Sales income,0.21,False
+2026-01-26,Bolt ride 29X840,-5.46,Travel,0.12,False
+2026-02-02,Maksājums par rēķinu INV-5896 SIA Mežaparka Klīnika,1205.22,Sales income,0.21,False
+2026-02-02,Rīgas ūdens 128210,-28.68,Utilities,0.21,False
+2026-02-02,DEPO DIY 8516,-50.36,Office supplies,0.21,False
+2026-02-03,CIRCLE K LATVIA 5847 RIGA,-76.74,Fuel and car,0.21,False
+2026-02-04,Maksājums par rēķinu Nr.8268 Nordic Freight AS,3181.3,Sales income,0.21,False
+2026-02-04,Bolt ride 70X620,-7.57,Travel,0.12,False
+2026-02-04,Darba alga Anna Kalniņa,-1057.73,Salaries,0.0,False
+2026-02-05,Komisijas maksa par maksājumu,-1.01,Bank fees,0.0,False
+2026-02-05,Komisijas maksa par maksājumu,-0.63,Bank fees,0.0,False
+2026-02-06,Payment invoice INV-7389 SIA Ziemeļu Būve,1894.34,Sales income,0.21,False
+2026-02-06,Bolt ride 80Z663,-16.63,Travel,0.12,False
+2026-02-06,VID PVN maksājums februāris,-1782.38,Taxes,0.0,False
+2026-02-08,Officeday.lv pasūtījums 436466,-123.77,Office supplies,0.21,False
+2026-02-09,Maksājums par rēķinu INV-3622 SIA Daugavas Viesnīca,3854.07,Sales income,0.21,False
+2026-02-09,Maksājums par rēķinu Nr.9855 SIA Kurzemes Maiznīca,1278.46,Sales income,0.21,False
+2026-02-09,Komisija par konta apkalpošanu,-6.0,Bank fees,0.0,False
+2026-02-10,CANVA* 20C948,-12.0,Software and subscriptions,0.21,False
+2026-02-11,Microsoft*365 97D406,-22.0,Software and subscriptions,0.21,False
+2026-02-11,Alga Anna Kalniņa 2026-02,-1271.66,Salaries,0.0,False
+2026-02-12,Elektrum rēķins 889944,-81.98,Utilities,0.21,False
+2026-02-12,GOOGLE *Workspace 33D769,-38.76,Software and subscriptions,0.21,False
+2026-02-13,Maksājums par rēķinu Nr.4493 Tallinn Digital OÜ,2307.32,Sales income,0.21,False
+2026-02-13,CIRCLE K LATVIA 3904 RIGA,-67.16,Fuel and car,0.21,False
+2026-02-13,RESTORANS LIDO 4562,-130.14,Meals and hospitality,0.21,False
+2026-02-13,VID VSAOI un IIN 02/26,-1486.2,Taxes,0.0,False
+2026-02-14,Zvērinātu advokātu birojs Lex SIA,-615.4,Accounting and legal,0.21,False
+2026-02-15,Kafejnīca Kūkotava 3371,-37.48,Meals and hospitality,0.21,False
+2026-02-15,Kredīta atmaksa līgums 672679,-420.0,Loan repayment,0.0,False
+2026-02-16,Maksājums par rēķinu INV-5645 Tallinn Digital OÜ,2854.94,Sales income,0.21,False
+2026-02-16,Tet internets 978695,-25.0,Phone and internet,0.21,False
+2026-02-16,VIADA DUS 6455,-68.27,Fuel and car,0.21,False
+2026-02-16,VIADA DUS 6720,-54.4,Fuel and car,0.21,False
+2026-02-16,Alga A. Kalnina februāris,-1184.97,Salaries,0.0,False
+2026-02-17,Payment invoice Nr.8255 Baltic Retail Group,903.42,Sales income,0.21,False
+2026-02-17,SIA Biroju Centrs nomas maksa februāris,-850.0,Rent,0.21,False
+2026-02-18,Maksājums par rēķinu 7331 Baltic Retail Group,2630.39,Sales income,0.21,False
+2026-02-18,Alga Anna Kalniņa 2026-02,-1799.68,Salaries,0.0,False
+2026-02-20,Maksājums par rēķinu Nr.7892 SIA Mežaparka Klīnika,528.33,Sales income,0.21,False
+2026-02-21,CIRCLE K LATVIA 2338 RIGA,-81.29,Fuel and car,0.21,False
+2026-02-22,ADOBE *CREATIVE CLD,-60.0,Software and subscriptions,0.21,False
+2026-02-22,BTA apdrošināšana polise 882904,-45.0,Insurance,0.0,False
+2026-02-24,Zoom.us 86Y385,-14.0,Software and subscriptions,0.21,False
+2026-02-24,CIRCLE K LATVIA 7914 RIGA,-40.8,Fuel and car,0.21,False
+2026-02-25,Maksājums par rēķinu 4028 SIA Ziemeļu Būve,1008.04,Sales income,0.21,False
+2026-02-25,LMT rēķins februāris,-38.03,Phone and internet,0.21,False
+2026-02-26,Payment invoice Nr.8825 SIA Mežaparka Klīnika,3831.65,Sales income,0.21,False
+2026-02-26,RESTORANS LIDO 1178,-116.8,Meals and hospitality,0.21,False
+2026-02-26,FACEBK *ADS 29X888,-235.48,Marketing,0.21,False
+2026-02-27,Payment invoice INV-2885 SIA Ziemeļu Būve,1256.22,Sales income,0.21,False
+2026-02-27,Neste 2801 Jelgava,-39.46,Fuel and car,0.21,False
+2026-02-27,Komisijas maksa par maksājumu,-0.47,Bank fees,0.0,False
+2026-02-28,GOOGLE *ADS744730,-142.59,Marketing,0.21,False
+2026-02-28,Grāmatvedības pakalpojumi SIA Skaitļi februāris,-220.0,Accounting and legal,0.21,False
+2026-03-01,Bolt ride 93Y322,-11.75,Travel,0.12,False
+2026-03-01,Grāmatvedības pakalpojumi SIA Skaitļi 2026-03,-220.0,Accounting and legal,0.21,False
+2026-03-02,Elektrum rēķins 847786,-112.01,Utilities,0.21,False
+2026-03-02,CIRCLE K LATVIA 9364 RIGA,-73.26,Fuel and car,0.21,False
+2026-03-03,Tet internets 107316,-25.0,Phone and internet,0.21,False
+2026-03-03,Neste 7854 Jelgava,-83.58,Fuel and car,0.21,False
+2026-03-03,RESTORANS LIDO 4904,-123.27,Meals and hospitality,0.21,False
+2026-03-03,VID PVN maksājums 2026-03,-432.94,Taxes,0.0,False
+2026-03-03,Komisija par konta apkalpošanu,-6.0,Bank fees,0.0,False
+2026-03-04,CIRCLE K LATVIA 6095 RIGA,-84.9,Fuel and car,0.21,False
+2026-03-05,RESTORANS LIDO 7298,-108.73,Meals and hospitality,0.21,False
+2026-03-05,Kafejnīca Kūkotava 3228,-27.01,Meals and hospitality,0.21,False
+2026-03-06,Zoom.us 42Z833,-14.0,Software and subscriptions,0.21,False
+2026-03-07,Kredīta atmaksa līgums 614488,-420.0,Loan repayment,0.0,False
+2026-03-08,Rīgas ūdens 855126,-32.65,Utilities,0.21,False
+2026-03-08,CANVA* 86Y153,-12.0,Software and subscriptions,0.21,False
+2026-03-08,Autoserviss Pārdaugava SIA,-203.76,Fuel and car,0.21,False
+2026-03-08,DEPO DIY 6055,-28.77,Office supplies,0.21,False
+2026-03-08,BTA apdrošināšana polise 225629,-45.0,Insurance,0.0,False
+2026-03-09,FACEBK *ADS 45X829,-166.71,Marketing,0.21,False
+2026-03-10,Alga Mārtiņš Ozols 03/26,-1496.54,Salaries,0.0,False
+2026-03-11,Maksājums par rēķinu Nr.2143 Baltic Retail Group,3232.35,Sales income,0.21,False
+2026-03-11,VID VSAOI un IIN 2026-03,-1863.73,Taxes,0.0,False
+2026-03-12,VIADA DUS 8459,-64.93,Fuel and car,0.21,False
+2026-03-13,Maksājums par rēķinu INV-2679 Nordic Freight AS,4041.39,Sales income,0.21,False
+2026-03-13,CIRCLE K LATVIA 2001 RIGA,-49.02,Fuel and car,0.21,False
+2026-03-13,Alga A. Kalnina marts,-1044.41,Salaries,0.0,False
+2026-03-15,Payment invoice INV-7508 Baltic Retail Group,3790.99,Sales income,0.21,False
+2026-03-15,Payment invoice Nr.6314 Nordic Freight AS,3804.2,Sales income,0.21,False
+2026-03-16,Maksājums par rēķinu Nr.7701 SIA Daugavas Viesnīca,3767.8,Sales income,0.21,False
+2026-03-16,Maksājums par rēķinu INV-4918 SIA Kurzemes Maiznīca,3010.13,Sales income,0.21,False
+2026-03-16,Komisijas maksa par maksājumu,-1.47,Bank fees,0.0,False
+2026-03-17,Maksājums par rēķinu 6254 SIA Ziemeļu Būve,1985.68,Sales income,0.21,False
+2026-03-17,GOOGLE *ADS461713,-443.71,Marketing,0.21,False
+2026-03-17,Alga Anna Kalniņa marts,-1011.66,Salaries,0.0,False
+2026-03-18,Payment invoice Nr.1009 SIA Mežaparka Klīnika,2545.96,Sales income,0.21,False
+2026-03-18,Komisijas maksa par maksājumu,-1.48,Bank fees,0.0,False
+2026-03-19,Maksājums par rēķinu 3597 Baltic Retail Group,2797.27,Sales income,0.21,False
+2026-03-19,Maksājums par rēķinu Nr.9515 Baltic Retail Group,1882.36,Sales income,0.21,False
+2026-03-19,GOOGLE *Workspace 80A290,-37.57,Software and subscriptions,0.21,False
+2026-03-20,Maksājums par rēķinu 5728 Tallinn Digital OÜ,867.99,Sales income,0.21,False
+2026-03-20,Maksājums par rēķinu 8444 SIA Ziemeļu Būve,2436.64,Sales income,0.21,False
+2026-03-20,CIRCLE K LATVIA 1506 RIGA,-35.98,Fuel and car,0.21,False
+2026-03-22,LMT rēķins 03/26,-53.35,Phone and internet,0.21,False
+2026-03-22,Pārskaitījums uz savu kontu,-894.18,Owner transfers,0.0,False
+2026-03-24,VIADA DUS 5883,-79.28,Fuel and car,0.21,False
+2026-03-25,Microsoft*365 81Z760,-22.0,Software and subscriptions,0.21,False
+2026-03-26,Payment invoice INV-7907 SIA Kurzemes Maiznīca,940.09,Sales income,0.21,False
+2026-03-26,ADOBE *CREATIVE CLD,-60.0,Software and subscriptions,0.21,False
+2026-03-27,SIA Biroju Centrs nomas maksa 2026-03,-850.0,Rent,0.21,False
+2026-03-27,Komisijas maksa par maksājumu,-0.99,Bank fees,0.0,False
+2026-03-28,Officeday.lv pasūtījums 983999,-143.82,Office supplies,0.21,False
+2026-03-28,Bolt ride 98C471,-11.33,Travel,0.12,False
+2026-04-01,Maksājums par rēķinu INV-3191 SIA Mežaparka Klīnika,2140.16,Sales income,0.21,False
+2026-04-01,Payment invoice INV-3353 SIA Mežaparka Klīnika,1353.76,Sales income,0.21,False
+2026-04-01,Komisijas maksa par maksājumu,-0.82,Bank fees,0.0,False
+2026-04-02,Maksājums par rēķinu Nr.9314 Tallinn Digital OÜ,1644.1,Sales income,0.21,False
+2026-04-02,Payment invoice INV-5135 SIA Mežaparka Klīnika,1138.29,Sales income,0.21,False
+2026-04-02,VIADA DUS 7993,-65.58,Fuel and car,0.21,False
+2026-04-03,Tet internets 323988,-25.0,Phone and internet,0.21,False
+2026-04-04,Kafejnīca Kūkotava 5693,-20.82,Meals and hospitality,0.21,False
+2026-04-04,VID VSAOI un IIN 2026-04,-1341.25,Taxes,0.0,False
+2026-04-04,Komisijas maksa par maksājumu,-1.28,Bank fees,0.0,False
+2026-04-06,SIA Biroju Centrs nomas maksa 04/26,-850.0,Rent,0.21,False
+2026-04-06,CIRCLE K LATVIA 5284 RIGA,-81.21,Fuel and car,0.21,False
+2026-04-07,Payment invoice Nr.1839 Baltic Retail Group,1726.79,Sales income,0.21,False
+2026-04-07,Elektrum rēķins 377804,-65.1,Utilities,0.21,False
+2026-04-07,GOOGLE *Workspace 33D122,-39.19,Software and subscriptions,0.21,False
+2026-04-07,RESTORANS LIDO 8484,-41.82,Meals and hospitality,0.21,False
+2026-04-08,Maksājums par rēķinu INV-7687 SIA Daugavas Viesnīca,1827.57,Sales income,0.21,False
+2026-04-08,Officeday.lv pasūtījums 507510,-136.74,Office supplies,0.21,False
+2026-04-09,Bolt ride 18Y310,-6.51,Travel,0.12,False
+2026-04-10,Maksājums par rēķinu 8245 Baltic Retail Group,3420.65,Sales income,0.21,False
+2026-04-10,GOOGLE *ADS828663,-325.4,Marketing,0.21,False
+2026-04-10,Pārskaitījums uz savu kontu,-547.64,Owner transfers,0.0,False
+2026-04-11,Payment invoice 7693 Nordic Freight AS,2185.4,Sales income,0.21,False
+2026-04-11,LMT rēķins 04/26,-48.59,Phone and internet,0.21,False
+2026-04-12,BTA apdrošināšana polise 800418,-45.0,Insurance,0.0,False
+2026-04-12,Alga A. Kalnina 2026-04,-1896.44,Salaries,0.0,False
+2026-04-12,Komisija par konta apkalpošanu,-6.0,Bank fees,0.0,False
+2026-04-13,Maksājums par rēķinu 9889 SIA Daugavas Viesnīca,1587.23,Sales income,0.21,False
+2026-04-13,Microsoft*365 18Z703,-22.0,Software and subscriptions,0.21,False
+2026-04-14,ADOBE *CREATIVE CLD,-60.0,Software and subscriptions,0.21,False
+2026-04-14,CIRCLE K LATVIA 1527 RIGA,-81.01,Fuel and car,0.21,False
+2026-04-15,CANVA* 25Z856,-12.0,Software and subscriptions,0.21,False
+2026-04-15,FACEBK *ADS 86B559,-136.72,Marketing,0.21,False
+2026-04-15,VID PVN maksājums aprīlis,-618.12,Taxes,0.0,False
+2026-04-16,VIADA DUS 9040,-43.98,Fuel and car,0.21,False
+2026-04-16,Neste 6468 Jelgava,-77.75,Fuel and car,0.21,False
+2026-04-17,Alga M. Ozols aprīlis,-1279.24,Salaries,0.0,False
+2026-04-18,Rīgas ūdens 528382,-32.07,Utilities,0.21,False
+2026-04-18,Kredīta atmaksa līgums 785794,-420.0,Loan repayment,0.0,False
+2026-04-20,Maksājums par rēķinu Nr.3634 Baltic Retail Group,3186.97,Sales income,0.21,False
+2026-04-21,CIRCLE K LATVIA 6376 RIGA,-59.84,Fuel and car,0.21,False
+2026-04-21,DEPO DIY 1251,-30.51,Office supplies,0.21,False
+2026-04-22,Maksājums par rēķinu 3577 Tallinn Digital OÜ,4156.35,Sales income,0.21,False
+2026-04-22,Bolt ride 98X577,-12.84,Travel,0.12,False
+2026-04-23,Maksājums par rēķinu Nr.9394 SIA Daugavas Viesnīca,1509.68,Sales income,0.21,False
+2026-04-23,Maksājums par rēķinu 6469 SIA Daugavas Viesnīca,2963.07,Sales income,0.21,False
+2026-04-23,Alga A. Kalnina 2026-04,-1032.02,Salaries,0.0,False
+2026-04-24,CIRCLE K LATVIA 2819 RIGA,-69.26,Fuel and car,0.21,False
+2026-04-25,Zoom.us 58Y156,-14.0,Software and subscriptions,0.21,False
+2026-04-27,Komisijas maksa par maksājumu,-0.36,Bank fees,0.0,False
+2026-04-28,Grāmatvedības pakalpojumi SIA Skaitļi aprīlis,-220.0,Accounting and legal,0.21,False
+2026-05-01,SIA Biroju Centrs nomas maksa 2026-05,-850.0,Rent,0.21,False
+2026-05-01,ADOBE *CREATIVE CLD,-60.0,Software and subscriptions,0.21,False
+2026-05-02,FACEBK *ADS 36B999,-189.34,Marketing,0.21,False
+2026-05-03,LMT rēķins 05/26,-54.58,Phone and internet,0.21,False
+2026-05-03,CIRCLE K LATVIA 4236 RIGA,-59.02,Fuel and car,0.21,False
+2026-05-04,Maksājums par rēķinu INV-2011 Baltic Retail Group,493.32,Sales income,0.21,False
+2026-05-04,BTA apdrošināšana polise 563949,-45.0,Insurance,0.0,False
+2026-05-04,Komisijas maksa par maksājumu,-0.92,Bank fees,0.0,False
+2026-05-05,Payment invoice Nr.7678 SIA Ziemeļu Būve,3707.46,Sales income,0.21,False
+2026-05-05,Tet internets 678295,-25.0,Phone and internet,0.21,False
+2026-05-06,CANVA* 56Y906,-12.0,Software and subscriptions,0.21,False
+2026-05-07,Maksājums par rēķinu INV-1918 SIA Mežaparka Klīnika,2675.86,Sales income,0.21,False
+2026-05-07,Microsoft*365 47X978,-22.0,Software and subscriptions,0.21,False
+2026-05-08,VIADA DUS 6180,-65.1,Fuel and car,0.21,False
+2026-05-08,DEPO DIY 6494,-41.01,Office supplies,0.21,False
+2026-05-10,Alga A. Kalnina maijs,-2070.63,Salaries,0.0,False
+2026-05-11,RESTORANS LIDO 9251,-110.03,Meals and hospitality,0.21,False
+2026-05-11,GOOGLE *ADS434981,-138.19,Marketing,0.21,False
+2026-05-11,VID PVN maksājums 05/26,-421.26,Taxes,0.0,False
+2026-05-11,VID VSAOI un IIN 2026-05,-1233.09,Taxes,0.0,False
+2026-05-12,Rīgas ūdens 941677,-30.42,Utilities,0.21,False
+2026-05-12,CIRCLE K LATVIA 9539 RIGA,-82.97,Fuel and car,0.21,False
+2026-05-13,Komisijas maksa par maksājumu,-0.53,Bank fees,0.0,False
+2026-05-14,Maksājums par rēķinu 1115 Tallinn Digital OÜ,2613.82,Sales income,0.21,False
+2026-05-14,Payment invoice Nr.9380 SIA Daugavas Viesnīca,2989.31,Sales income,0.21,False
+2026-05-14,Bolt ride 38Z440,-7.28,Travel,0.12,False
+2026-05-15,Elektrum rēķins 515594,-88.66,Utilities,0.21,False
+2026-05-15,RESTORANS LIDO 7343,-50.05,Meals and hospitality,0.21,False
+2026-05-15,Kredīta atmaksa līgums 969335,-420.0,Loan repayment,0.0,False
+2026-05-16,VIADA DUS 5195,-39.64,Fuel and car,0.21,False
+2026-05-16,Alga Anna Kalniņa 2026-05,-2073.49,Salaries,0.0,False
+2026-05-17,Neste 3443 Jelgava,-42.86,Fuel and car,0.21,False
+2026-05-18,CIRCLE K LATVIA 7019 RIGA,-41.06,Fuel and car,0.21,False
+2026-05-19,Officeday.lv pasūtījums 171207,-127.33,Office supplies,0.21,False
+2026-05-20,Komisija par konta apkalpošanu,-6.0,Bank fees,0.0,False
+2026-05-21,Maksājums par rēķinu Nr.1785 Nordic Freight AS,1401.29,Sales income,0.21,False
+2026-05-22,Maksājums par rēķinu Nr.4691 SIA Daugavas Viesnīca,679.29,Sales income,0.21,False
+2026-05-22,Maksājums par rēķinu INV-9959 SIA Ziemeļu Būve,3235.66,Sales income,0.21,False
+2026-05-22,CIRCLE K LATVIA 4804 RIGA,-55.38,Fuel and car,0.21,False
+2026-05-22,Bolt ride 12B418,-13.51,Travel,0.12,False
+2026-05-22,Kafejnīca Kūkotava 8796,-36.95,Meals and hospitality,0.21,False
+2026-05-22,Grāmatvedības pakalpojumi SIA Skaitļi maijs,-220.0,Accounting and legal,0.21,False
+2026-05-23,Maksājums par rēķinu Nr.6891 Nordic Freight AS,1750.53,Sales income,0.21,False
+2026-05-23,Payment invoice INV-2865 SIA Daugavas Viesnīca,4020.07,Sales income,0.21,False
+2026-05-24,Payment invoice 6831 Tallinn Digital OÜ,578.66,Sales income,0.21,False
+2026-05-24,Darba alga A. Kalnina,-1887.12,Salaries,0.0,False
+2026-05-25,GOOGLE *Workspace 35Z647,-42.42,Software and subscriptions,0.21,False
+2026-05-26,Maksājums par rēķinu INV-3294 Nordic Freight AS,625.5,Sales income,0.21,False
+2026-05-26,Zoom.us 79Z234,-14.0,Software and subscriptions,0.21,False
+2026-05-26,Alga Mārtiņš Ozols 2026-05,-1971.81,Salaries,0.0,False
+2026-05-28,Maksājums par rēķinu Nr.5425 SIA Daugavas Viesnīca,662.04,Sales income,0.21,False
+2026-05-28,Komisijas maksa par maksājumu,-1.08,Bank fees,0.0,False
+2026-06-01,Tet internets 749138,-25.0,Phone and internet,0.21,False
+2026-06-01,ADOBE *CREATIVE CLD,-60.0,Software and subscriptions,0.21,False
+2026-06-01,CIRCLE K LATVIA 9101 RIGA,-50.09,Fuel and car,0.21,False
+2026-06-01,VIADA DUS 3755,-77.67,Fuel and car,0.21,False
+2026-06-01,FACEBK *ADS 56C526,-144.62,Marketing,0.21,False
+2026-06-02,Maksājums par rēķinu 9190 SIA Daugavas Viesnīca,389.27,Sales income,0.21,False
+2026-06-02,Alga Anna Kalniņa 2026-06,-1934.37,Salaries,0.0,False
+2026-06-06,GOOGLE *ADS671501,-435.33,Marketing,0.21,False
+2026-06-07,Payment invoice Nr.2079 SIA Ziemeļu Būve,2337.95,Sales income,0.21,False
+2026-06-07,DEPO DIY 9278,-78.43,Office supplies,0.21,False
+2026-06-07,Alga Mārtiņš Ozols 06/26,-2023.0,Salaries,0.0,False
+2026-06-08,LMT rēķins jūnijs,-58.85,Phone and internet,0.21,False
+2026-06-08,airBaltic 66D279,-264.57,Travel,0.12,False
+2026-06-09,Rīgas ūdens 546275,-25.9,Utilities,0.21,False
+2026-06-09,CIRCLE K LATVIA 6320 RIGA,-73.79,Fuel and car,0.21,False
+2026-06-10,Maksājums par rēķinu INV-5283 Tallinn Digital OÜ,1291.48,Sales income,0.21,False
+2026-06-10,Payment invoice INV-6967 Baltic Retail Group,1077.03,Sales income,0.21,False
+2026-06-10,Payment invoice INV-9708 Nordic Freight AS,2354.96,Sales income,0.21,False
+2026-06-10,CANVA* 82Y500,-12.0,Software and subscriptions,0.21,False
+2026-06-10,Autoserviss Pārdaugava SIA,-292.97,Fuel and car,0.21,False
+2026-06-10,Grāmatvedības pakalpojumi SIA Skaitļi 06/26,-220.0,Accounting and legal,0.21,False
+2026-06-10,Komisijas maksa par maksājumu,-0.79,Bank fees,0.0,False
+2026-06-11,Maksājums par rēķinu INV-4525 Tallinn Digital OÜ,3912.65,Sales income,0.21,False
+2026-06-11,Maksājums par rēķinu 5760 SIA Kurzemes Maiznīca,3915.73,Sales income,0.21,False
+2026-06-12,Bolt ride 38D473,-12.86,Travel,0.12,False
+2026-06-13,Neste 7517 Jelgava,-70.27,Fuel and car,0.21,False
+2026-06-13,BTA apdrošināšana polise 358920,-45.0,Insurance,0.0,False
+2026-06-14,Payment invoice INV-7814 SIA Daugavas Viesnīca,1988.64,Sales income,0.21,False
+2026-06-14,CIRCLE K LATVIA 1979 RIGA,-49.27,Fuel and car,0.21,False
+2026-06-15,Alga A. Kalnina jūnijs,-1574.89,Salaries,0.0,False
+2026-06-16,Officeday.lv pasūtījums 446709,-28.06,Office supplies,0.21,False
+2026-06-16,Bolt ride 84A197,-14.34,Travel,0.12,False
+2026-06-17,Maksājums par rēķinu Nr.5470 Tallinn Digital OÜ,1982.07,Sales income,0.21,False
+2026-06-17,SIA Biroju Centrs nomas maksa jūnijs,-850.0,Rent,0.21,False
+2026-06-17,Kredīta atmaksa līgums 489285,-420.0,Loan repayment,0.0,False
+2026-06-18,Maksājums par rēķinu 9026 SIA Daugavas Viesnīca,526.9,Sales income,0.21,False
+2026-06-19,CIRCLE K LATVIA 8834 RIGA,-37.84,Fuel and car,0.21,False
+2026-06-19,Komisijas maksa par maksājumu,-0.67,Bank fees,0.0,False
+2026-06-20,VID PVN maksājums 2026-06,-501.89,Taxes,0.0,False
+2026-06-21,Elektrum rēķins 211754,-63.32,Utilities,0.21,False
+2026-06-21,GOOGLE *Workspace 83D856,-38.16,Software and subscriptions,0.21,False
+2026-06-21,Komisija par konta apkalpošanu,-6.0,Bank fees,0.0,False
+2026-06-21,Komisijas maksa par maksājumu,-1.12,Bank fees,0.0,False
+2026-06-22,Maksājums par rēķinu INV-7550 Tallinn Digital OÜ,1638.28,Sales income,0.21,False
+2026-06-22,Kafejnīca Kūkotava 1336,-13.65,Meals and hospitality,0.21,False
+2026-06-24,VID VSAOI un IIN jūnijs,-1279.03,Taxes,0.0,False
+2026-06-25,RESTORANS LIDO 3890,-138.24,Meals and hospitality,0.21,False
+2026-06-26,Maksājums par rēķinu 2927 SIA Daugavas Viesnīca,1461.01,Sales income,0.21,False
+2026-06-26,Microsoft*365 65B563,-22.0,Software and subscriptions,0.21,False
+2026-06-26,Zoom.us 39Y718,-14.0,Software and subscriptions,0.21,False
+2026-06-26,VIADA DUS 8203,-78.36,Fuel and car,0.21,False
+2026-06-27,SIA Drukas Nams reklāmas materiāli,-288.9,Marketing,0.21,False
+2026-06-28,Maksājums par rēķinu Nr.1041 SIA Kurzemes Maiznīca,1889.5,Sales income,0.21,False
+2026-07-01,Maksājums par rēķinu INV-4913 Nordic Freight AS,2248.83,Sales income,0.21,False
+2026-07-02,CIRCLE K LATVIA 1609 RIGA,-50.47,Fuel and car,0.21,False
+2026-07-03,Komisijas maksa par maksājumu,-0.63,Bank fees,0.0,False
+2026-07-04,Kafejnīca Kūkotava 9699,-43.87,Meals and hospitality,0.21,False
+2026-07-05,Rīgas ūdens 728083,-33.55,Utilities,0.21,False
+2026-07-05,Zoom.us 19D723,-14.0,Software and subscriptions,0.21,False
+2026-07-05,BTA apdrošināšana polise 947050,-45.0,Insurance,0.0,False
+2026-07-05,Alga Anna Kalniņa 2026-07,-1833.29,Salaries,0.0,False
+2026-07-06,Maksājums par rēķinu INV-7096 Tallinn Digital OÜ,1795.36,Sales income,0.21,False
+2026-07-06,Payment invoice INV-4109 SIA Kurzemes Maiznīca,1725.86,Sales income,0.21,False
+2026-07-06,CIRCLE K LATVIA 4000 RIGA,-42.48,Fuel and car,0.21,False
+2026-07-06,VIADA DUS 9258,-77.44,Fuel and car,0.21,False
+2026-07-07,Maksājums par rēķinu 8140 SIA Kurzemes Maiznīca,1795.8,Sales income,0.21,False
+2026-07-07,Komisijas maksa par maksājumu,-1.31,Bank fees,0.0,False
+2026-07-07,Komisijas maksa par maksājumu,-1.09,Bank fees,0.0,False
+2026-07-08,Maksājums par rēķinu 4042 Tallinn Digital OÜ,3225.89,Sales income,0.21,False
+2026-07-08,Bolt ride 92C460,-13.43,Travel,0.12,False
+2026-07-09,RESTORANS LIDO 5116,-116.97,Meals and hospitality,0.21,False
+2026-07-10,GOOGLE *ADS941549,-386.22,Marketing,0.21,False
+2026-07-11,Officeday.lv pasūtījums 223972,-114.42,Office supplies,0.21,False
+2026-07-12,Bolt ride 74X631,-6.0,Travel,0.12,False
+2026-07-13,Maksājums par rēķinu INV-2579 Nordic Freight AS,2515.72,Sales income,0.21,False
+2026-07-13,CANVA* 55A220,-12.0,Software and subscriptions,0.21,False
+2026-07-14,Maksājums par rēķinu INV-9558 Baltic Retail Group,1082.15,Sales income,0.21,False
+2026-07-14,Alga A. Kalnina 07/26,-1640.27,Salaries,0.0,False
+2026-07-14,Pārskaitījums uz savu kontu,-1069.24,Owner transfers,0.0,False
+2026-07-15,Elektrum rēķins 689182,-128.53,Utilities,0.21,False
+2026-07-15,ADOBE *CREATIVE CLD,-60.0,Software and subscriptions,0.21,False
+2026-07-18,LMT rēķins jūlijs,-60.57,Phone and internet,0.21,False
+2026-07-18,Tet internets 779597,-25.0,Phone and internet,0.21,False
+2026-07-18,Neste 3759 Jelgava,-60.75,Fuel and car,0.21,False
+2026-07-20,VID PVN maksājums 07/26,-864.34,Taxes,0.0,False
+2026-07-21,Payment invoice INV-3354 SIA Mežaparka Klīnika,1351.38,Sales income,0.21,False
+2026-07-21,Payment invoice 6289 SIA Kurzemes Maiznīca,2557.22,Sales income,0.21,False
+2026-07-21,Microsoft*365 79C393,-22.0,Software and subscriptions,0.21,False
+2026-07-21,CIRCLE K LATVIA 3330 RIGA,-51.23,Fuel and car,0.21,False
+2026-07-22,CIRCLE K LATVIA 3426 RIGA,-87.42,Fuel and car,0.21,False
+2026-07-22,Komisija par konta apkalpošanu,-6.0,Bank fees,0.0,False
+2026-07-22,Dividenžu izmaksa,-2678.16,Owner transfers,0.0,False
+2026-07-23,Maksājums par rēķinu Nr.1612 SIA Kurzemes Maiznīca,482.0,Sales income,0.21,False
+2026-07-23,SIA Biroju Centrs nomas maksa 2026-07,-850.0,Rent,0.21,False
+2026-07-23,Kredīta atmaksa līgums 651351,-420.0,Loan repayment,0.0,False
+2026-07-24,Payment invoice INV-6932 SIA Kurzemes Maiznīca,1918.95,Sales income,0.21,False
+2026-07-24,Grāmatvedības pakalpojumi SIA Skaitļi 07/26,-220.0,Accounting and legal,0.21,False
+2026-07-25,FACEBK *ADS 70B919,-318.09,Marketing,0.21,False
+2026-07-25,VID VSAOI un IIN 07/26,-1633.78,Taxes,0.0,False
+2026-07-26,Maksājums par rēķinu 7927 SIA Daugavas Viesnīca,1609.48,Sales income,0.21,False
+2026-07-26,VIADA DUS 2204,-68.17,Fuel and car,0.21,False
+2026-07-27,Maksājums par rēķinu Nr.3659 SIA Kurzemes Maiznīca,561.68,Sales income,0.21,False
+2026-07-27,Alga M. Ozols 07/26,-1074.09,Salaries,0.0,False
+2026-07-28,GOOGLE *Workspace 99Z980,-37.15,Software and subscriptions,0.21,False
+2026-08-01,Maksājums par rēķinu INV-3662 SIA Ziemeļu Būve,2030.61,Sales income,0.21,False
+2026-08-01,LINKEDIN ADS 80C630,-211.54,Marketing,0.21,True
+2026-08-02,ADOBE *CREATIVE CLD,-60.0,Software and subscriptions,0.21,False
+2026-08-03,Tet internets 391557,-25.0,Phone and internet,0.21,False
+2026-08-04,Maksājums par rēķinu Nr.4285 SIA Daugavas Viesnīca,967.44,Sales income,0.21,False
+2026-08-04,Microsoft*365 52X796,-22.0,Software and subscriptions,0.21,False
+2026-08-05,Elektrum rēķins 449717,-81.87,Utilities,0.21,False
+2026-08-05,Komisijas maksa par maksājumu,-0.89,Bank fees,0.0,False
+2026-08-06,Bolt ride 59C622,-15.74,Travel,0.12,False
+2026-08-06,Kredīta atmaksa līgums 969358,-420.0,Loan repayment,0.0,False
+2026-08-06,Komisija SEPA zibmaksājums,-0.48,Bank fees,0.0,True
+2026-08-07,CIRCLE K LATVIA 7469 RIGA,-60.43,Fuel and car,0.21,False
+2026-08-07,Komisija par konta apkalpošanu,-6.0,Bank fees,0.0,False
+2026-08-07,NOTION LABS 70B317,-10.0,Software and subscriptions,0.21,True
+2026-08-08,Maksājums par rēķinu 6035 Nordic Freight AS,2249.54,Sales income,0.21,False
+2026-08-08,BOLT.EU/O/733357,-16.09,Travel,0.12,True
+2026-08-08,Bite Latvija rēķins 427391,-38.54,Phone and internet,0.21,True
+2026-08-09,Wolt order 15X725,-18.0,Meals and hospitality,0.21,True
+2026-08-10,Maksājums par rēķinu 2882 Baltic Retail Group,3257.45,Sales income,0.21,False
+2026-08-10,CIRCLE K LATVIA 1861 RIGA,-68.75,Fuel and car,0.21,False
+2026-08-10,Alga M. Ozols augusts,-1719.13,Salaries,0.0,False
+2026-08-11,Payment invoice INV-7203 Tallinn Digital OÜ,1176.06,Sales income,0.21,False
+2026-08-12,Maksājums par rēķinu INV-1743 SIA Mežaparka Klīnika,365.61,Sales income,0.21,False
+2026-08-12,CIRCLE K LATVIA 1564 RIGA,-54.98,Fuel and car,0.21,False
+2026-08-12,VIADA DUS 9576,-70.1,Fuel and car,0.21,False
+2026-08-12,VID PVN maksājums augusts,-1148.15,Taxes,0.0,False
+2026-08-13,Maksājums par rēķinu INV-7809 SIA Ziemeļu Būve,3976.1,Sales income,0.21,False
+2026-08-13,CANVA* 98X237,-12.0,Software and subscriptions,0.21,False
+2026-08-13,SIA Drukas Nams reklāmas materiāli,-277.08,Marketing,0.21,False
+2026-08-14,BTA apdrošināšana polise 658319,-45.0,Insurance,0.0,False
+2026-08-15,Maksājums par rēķinu 8728 SIA Ziemeļu Būve,2207.28,Sales income,0.21,False
+2026-08-15,Bolt ride 31C564,-10.0,Travel,0.12,False
+2026-08-15,FACEBK *ADS 24C838,-298.0,Marketing,0.21,False
+2026-08-15,Pārskaitījums uz savu kontu,-815.45,Owner transfers,0.0,False
+2026-08-16,Alga Mārtiņš Ozols augusts,-1998.83,Salaries,0.0,False
+2026-08-17,SIA Biroju Centrs nomas maksa 08/26,-850.0,Rent,0.21,False
+2026-08-17,GOOGLE *Workspace 28C316,-46.85,Software and subscriptions,0.21,False
+2026-08-18,RESTORANS LIDO 2238,-138.95,Meals and hospitality,0.21,False
+2026-08-19,Payment invoice INV-5422 Baltic Retail Group,942.02,Sales income,0.21,False
+2026-08-20,Rīgas ūdens 356315,-23.29,Utilities,0.21,False
+2026-08-20,CIRCLE K LATVIA 3784 RIGA,-61.67,Fuel and car,0.21,False
+2026-08-20,Komisijas maksa par maksājumu,-0.64,Bank fees,0.0,False
+2026-08-21,Zoom.us 67D796,-14.0,Software and subscriptions,0.21,False
+2026-08-21,Komisijas maksa par maksājumu,-1.33,Bank fees,0.0,False
+2026-08-21,KOOL LATVIJA 8294,-64.02,Fuel and car,0.21,True
+2026-08-22,Maksājums par rēķinu 7808 SIA Daugavas Viesnīca,1544.14,Sales income,0.21,False
+2026-08-22,LMT rēķins augusts,-69.71,Phone and internet,0.21,False
+2026-08-22,Ienākošais maksājums SIA Kurzemes Maiznīca rēķins INV-9286,2980.54,Sales income,0.21,True
+2026-08-22,Ryanair 10Z743,-109.68,Travel,0.12,True
+2026-08-23,VIADA DUS 9352,-73.78,Fuel and car,0.21,False
+2026-08-23,Neste 7686 Jelgava,-49.58,Fuel and car,0.21,False
+2026-08-23,Kafejnīca Kūkotava 9130,-12.69,Meals and hospitality,0.21,False
+2026-08-23,Grāmatvedības pakalpojumi SIA Skaitļi 08/26,-220.0,Accounting and legal,0.21,False
+2026-08-24,Lido Atpūtas centrs 6664,-115.87,Meals and hospitality,0.21,True
+2026-08-25,Payment invoice Nr.3321 Tallinn Digital OÜ,1351.58,Sales income,0.21,False
+2026-08-25,Officeday.lv pasūtījums 877032,-127.8,Office supplies,0.21,False
+2026-08-25,GOOGLE *ADS975297,-433.23,Marketing,0.21,False
+2026-08-25,Ienākošais maksājums SIA Daugavas Viesnīca rēķins Nr.8863,1546.82,Sales income,0.21,True
+2026-08-26,Maksājums par rēķinu 4095 Nordic Freight AS,3975.96,Sales income,0.21,False
+2026-08-26,KOOL LATVIJA 3249,-55.43,Fuel and car,0.21,True
+2026-08-26,Komisija SEPA zibmaksājums,-0.5,Bank fees,0.0,True
+2026-08-27,Payment invoice 9798 SIA Kurzemes Maiznīca,4155.74,Sales income,0.21,False
+2026-08-27,VID VSAOI un IIN 08/26,-1733.96,Taxes,0.0,False
+2026-08-27,Virši-A DUS 3224,-33.32,Fuel and car,0.21,True
+2026-08-28,Alga M. Ozols 08/26,-1517.63,Salaries,0.0,False
+2026-08-28,OPENAI *CHATGPT SUBSCR,-22.0,Software and subscriptions,0.21,True
+2026-09-01,Maksājums par rēķinu 3981 Baltic Retail Group,3765.29,Sales income,0.21,False
+2026-09-01,Komisijas maksa par maksājumu,-1.14,Bank fees,0.0,False
+2026-09-02,LMT rēķins septembris,-41.56,Phone and internet,0.21,False
+2026-09-02,CIRCLE K LATVIA 4835 RIGA,-65.15,Fuel and car,0.21,False
+2026-09-03,Bolt ride 29A405,-16.74,Travel,0.12,False
+2026-09-05,Komisijas maksa par maksājumu,-1.13,Bank fees,0.0,False
+2026-09-07,Microsoft*365 23Z231,-22.0,Software and subscriptions,0.21,False
+2026-09-08,CIRCLE K LATVIA 9122 RIGA,-81.51,Fuel and car,0.21,False
+2026-09-09,Zoom.us 18X957,-14.0,Software and subscriptions,0.21,False
+2026-09-09,Lido Atpūtas centrs 4466,-95.73,Meals and hospitality,0.21,True
+2026-09-11,KOOL LATVIJA 1902,-67.05,Fuel and car,0.21,True
+2026-09-12,CANVA* 84C513,-12.0,Software and subscriptions,0.21,False
+2026-09-12,Alga Ilze Bērziņa septembris,-1354.24,Salaries,0.0,False
+2026-09-13,Grāmatvedības pakalpojumi SIA Skaitļi 2026-09,-220.0,Accounting and legal,0.21,False
+2026-09-14,Maksājums par rēķinu INV-8880 Tallinn Digital OÜ,2172.22,Sales income,0.21,False
+2026-09-14,Rīgas ūdens 615475,-33.71,Utilities,0.21,False
+2026-09-14,Bolt ride 45Y587,-8.02,Travel,0.12,False
+2026-09-14,Alga Anna Kalniņa 09/26,-1102.24,Salaries,0.0,False
+2026-09-15,Maksājums par rēķinu INV-4528 SIA Mežaparka Klīnika,2347.59,Sales income,0.21,False
+2026-09-15,Payment invoice Nr.5429 Nordic Freight AS,1200.2,Sales income,0.21,False
+2026-09-15,Wolt order 99Y926,-27.75,Meals and hospitality,0.21,True
+2026-09-15,Komisija SEPA zibmaksājums,-0.52,Bank fees,0.0,True
+2026-09-16,Maksājums par rēķinu Nr.3568 Nordic Freight AS,2322.74,Sales income,0.21,False
+2026-09-16,SIA Biroju Centrs nomas maksa 09/26,-850.0,Rent,0.21,False
+2026-09-16,Tet internets 879149,-25.0,Phone and internet,0.21,False
+2026-09-16,CIRCLE K LATVIA 2937 RIGA,-68.26,Fuel and car,0.21,False
+2026-09-16,Virši-A DUS 7235,-67.75,Fuel and car,0.21,True
+2026-09-17,CIRCLE K LATVIA 2720 RIGA,-58.69,Fuel and car,0.21,False
+2026-09-17,DEPO DIY 8318,-48.58,Office supplies,0.21,False
+2026-09-17,Ienākošais maksājums Nordic Freight AS rēķins Nr.6546,2900.67,Sales income,0.21,True
+2026-09-18,Maksājums par rēķinu Nr.2270 Tallinn Digital OÜ,4112.11,Sales income,0.21,False
+2026-09-18,Maksājums par rēķinu INV-1760 Tallinn Digital OÜ,2307.67,Sales income,0.21,False
+2026-09-18,Payment invoice 4182 SIA Ziemeļu Būve,1213.92,Sales income,0.21,False
+2026-09-18,GOOGLE *Workspace 96Z667,-36.53,Software and subscriptions,0.21,False
+2026-09-18,Neste 2677 Jelgava,-53.3,Fuel and car,0.21,False
+2026-09-18,FACEBK *ADS 39B989,-81.72,Marketing,0.21,False
+2026-09-18,GOOGLE *ADS145110,-192.24,Marketing,0.21,False
+2026-09-18,Ienākošais maksājums SIA Mežaparka Klīnika rēķins 1126,2431.79,Sales income,0.21,True
+2026-09-18,KOOL LATVIJA 7701,-62.64,Fuel and car,0.21,True
+2026-09-19,BOLT.EU/O/228953,-7.14,Travel,0.12,True
+2026-09-20,Maksājums par rēķinu Nr.1058 SIA Daugavas Viesnīca,2402.66,Sales income,0.21,False
+2026-09-20,Payment invoice INV-6488 SIA Mežaparka Klīnika,4109.83,Sales income,0.21,False
+2026-09-20,Elektrum rēķins 727794,-111.85,Utilities,0.21,False
+2026-09-20,ADOBE *CREATIVE CLD,-60.0,Software and subscriptions,0.21,False
+2026-09-20,Officeday.lv pasūtījums 280627,-41.12,Office supplies,0.21,False
+2026-09-20,Rimi Hiper biroja preces 9328,-34.08,Office supplies,0.21,True
+2026-09-21,Komisija par konta apkalpošanu,-6.0,Bank fees,0.0,False
+2026-09-21,Komisija SEPA zibmaksājums,-0.48,Bank fees,0.0,True
+2026-09-22,OPENAI *CHATGPT SUBSCR,-22.0,Software and subscriptions,0.21,True
+2026-09-22,Ryanair 48B135,-158.55,Travel,0.12,True
+2026-09-23,Komisijas maksa par maksājumu,-0.48,Bank fees,0.0,False
+2026-09-23,NOTION LABS 29Z184,-10.0,Software and subscriptions,0.21,True
+2026-09-23,Bite Latvija rēķins 110290,-27.51,Phone and internet,0.21,True
+2026-09-24,Maksājums par rēķinu INV-9984 SIA Mežaparka Klīnika,2196.6,Sales income,0.21,False
+2026-09-24,BTA apdrošināšana polise 521408,-45.0,Insurance,0.0,False
+2026-09-24,VID VSAOI un IIN 09/26,-1459.23,Taxes,0.0,False
+2026-09-25,Maksājums par rēķinu Nr.6050 SIA Mežaparka Klīnika,3295.9,Sales income,0.21,False
+2026-09-25,Kafejnīca Kūkotava 3945,-10.17,Meals and hospitality,0.21,False
+2026-09-26,VIADA DUS 5709,-58.49,Fuel and car,0.21,False
+2026-09-26,VIADA DUS 7734,-59.8,Fuel and car,0.21,False
+2026-09-26,Alga A. Kalnina septembris,-1842.23,Salaries,0.0,False
+2026-09-26,VID PVN maksājums septembris,-991.93,Taxes,0.0,False
+2026-09-27,RESTORANS LIDO 5738,-134.5,Meals and hospitality,0.21,False
+2026-09-28,Payment invoice Nr.8183 Nordic Freight AS,2728.06,Sales income,0.21,False
+2026-09-28,Kredīta atmaksa līgums 380455,-420.0,Loan repayment,0.0,False
+2026-10-01,CIRCLE K LATVIA 7397 RIGA,-52.58,Fuel and car,0.21,False
+2026-10-02,RESTORANS LIDO 2104,-61.16,Meals and hospitality,0.21,False
+2026-10-03,Payment invoice INV-2416 Nordic Freight AS,2752.94,Sales income,0.21,False
+2026-10-03,FACEBK *ADS 10D689,-397.52,Marketing,0.21,False
+2026-10-05,Rīgas ūdens 618169,-24.77,Utilities,0.21,False
+2026-10-05,Officeday.lv pasūtījums 420122,-130.79,Office supplies,0.21,False
+2026-10-05,Kafejnīca Kūkotava 3249,-27.04,Meals and hospitality,0.21,False
+2026-10-06,Maksājums par rēķinu INV-8183 Baltic Retail Group,4164.47,Sales income,0.21,False
+2026-10-06,Zoom.us 67X593,-14.0,Software and subscriptions,0.21,False
+2026-10-06,Neste 8971 Jelgava,-71.12,Fuel and car,0.21,False
+2026-10-06,DEPO DIY 8557,-36.44,Office supplies,0.21,False
+2026-10-07,Grāmatvedības pakalpojumi SIA Skaitļi oktobris,-220.0,Accounting and legal,0.21,False
+2026-10-07,KOOL LATVIJA 4491,-66.68,Fuel and car,0.21,True
+2026-10-07,Virši-A DUS 1801,-64.41,Fuel and car,0.21,True
+2026-10-09,Maksājums par rēķinu Nr.6671 SIA Daugavas Viesnīca,2010.49,Sales income,0.21,False
+2026-10-09,Kredīta atmaksa līgums 671385,-420.0,Loan repayment,0.0,False
+2026-10-11,Maksājums par rēķinu 4968 SIA Ziemeļu Būve,1760.28,Sales income,0.21,False
+2026-10-11,Alga M. Ozols 2026-10,-1320.47,Salaries,0.0,False
+2026-10-11,Ienākošais maksājums SIA Daugavas Viesnīca rēķins INV-8180,2042.1,Sales income,0.21,True
+2026-10-11,OPENAI *CHATGPT SUBSCR,-22.0,Software and subscriptions,0.21,True
+2026-10-12,Maksājums par rēķinu 4504 SIA Ziemeļu Būve,2059.5,Sales income,0.21,False
+2026-10-12,Maksājums par rēķinu INV-5524 Baltic Retail Group,2170.18,Sales income,0.21,False
+2026-10-12,CIRCLE K LATVIA 6997 RIGA,-86.77,Fuel and car,0.21,False
+2026-10-12,Komisija SEPA zibmaksājums,-0.57,Bank fees,0.0,True
+2026-10-13,Payment invoice INV-1799 Nordic Freight AS,1426.92,Sales income,0.21,False
+2026-10-14,Komisijas maksa par maksājumu,-0.84,Bank fees,0.0,False
+2026-10-15,ADOBE *CREATIVE CLD,-60.0,Software and subscriptions,0.21,False
+2026-10-15,CANVA* 24C244,-12.0,Software and subscriptions,0.21,False
+2026-10-15,Bolt ride 86B181,-5.47,Travel,0.12,False
+2026-10-15,SIA Drukas Nams reklāmas materiāli,-357.87,Marketing,0.21,False
+2026-10-15,VID PVN maksājums 2026-10,-842.37,Taxes,0.0,False
+2026-10-16,Maksājums par rēķinu INV-2419 SIA Mežaparka Klīnika,2486.64,Sales income,0.21,False
+2026-10-16,Bolt ride 91Z252,-16.83,Travel,0.12,False
+2026-10-16,NOTION LABS 84A827,-10.0,Software and subscriptions,0.21,True
+2026-10-17,Maksājums par rēķinu INV-9696 SIA Kurzemes Maiznīca,3171.27,Sales income,0.21,False
+2026-10-17,Payment invoice 8809 SIA Kurzemes Maiznīca,582.35,Sales income,0.21,False
+2026-10-17,CIRCLE K LATVIA 8478 RIGA,-84.98,Fuel and car,0.21,False
+2026-10-17,airBaltic 21A865,-99.75,Travel,0.12,False
+2026-10-17,GOOGLE *ADS234825,-278.72,Marketing,0.21,False
+2026-10-17,Alga Anna Kalniņa oktobris,-1355.77,Salaries,0.0,False
+2026-10-17,Komisijas maksa par maksājumu,-1.4,Bank fees,0.0,False
+2026-10-18,Microsoft*365 40D186,-22.0,Software and subscriptions,0.21,False
+2026-10-18,VID VSAOI un IIN 2026-10,-1187.96,Taxes,0.0,False
+2026-10-19,SIA Biroju Centrs nomas maksa oktobris,-850.0,Rent,0.21,False
+2026-10-20,LMT rēķins 2026-10,-50.71,Phone and internet,0.21,False
+2026-10-20,GOOGLE *Workspace 48Z818,-39.46,Software and subscriptions,0.21,False
+2026-10-20,VIADA DUS 8121,-52.16,Fuel and car,0.21,False
+2026-10-20,BOLT.EU/O/771950,-19.43,Travel,0.12,True
+2026-10-20,LINKEDIN ADS 10A310,-132.98,Marketing,0.21,True
+2026-10-21,Maksājums par rēķinu 2547 Tallinn Digital OÜ,838.39,Sales income,0.21,False
+2026-10-21,Elektrum rēķins 580735,-88.23,Utilities,0.21,False
+2026-10-21,Tet internets 673417,-25.0,Phone and internet,0.21,False
+2026-10-22,Komisija par konta apkalpošanu,-6.0,Bank fees,0.0,False
+2026-10-22,Pārskaitījums uz savu kontu,-1446.58,Owner transfers,0.0,False
+2026-10-23,Komisija SEPA zibmaksājums,-0.46,Bank fees,0.0,True
+2026-10-24,BTA apdrošināšana polise 454543,-45.0,Insurance,0.0,False
+2026-10-24,KOOL LATVIJA 2560,-74.48,Fuel and car,0.21,True
+2026-10-24,Rimi Hiper biroja preces 8599,-30.66,Office supplies,0.21,True
+2026-10-25,Payment invoice 5884 Nordic Freight AS,1125.39,Sales income,0.21,False
+2026-10-25,Bite Latvija rēķins 937584,-39.37,Phone and internet,0.21,True
+2026-10-26,Maksājums par rēķinu 2036 Tallinn Digital OÜ,2903.8,Sales income,0.21,False
+2026-10-26,Komisijas maksa par maksājumu,-0.81,Bank fees,0.0,False
+2026-10-27,CIRCLE K LATVIA 1680 RIGA,-58.05,Fuel and car,0.21,False
+2026-10-27,VIADA DUS 4708,-72.55,Fuel and car,0.21,False
+2026-10-27,Ienākošais maksājums Tallinn Digital OÜ rēķins 3242,2253.83,Sales income,0.21,True
+2026-10-27,Wolt order 89Y579,-42.66,Meals and hospitality,0.21,True
+2026-10-28,Alga M. Ozols oktobris,-1216.4,Salaries,0.0,False
