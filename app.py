@@ -15,14 +15,6 @@ kit.page("Auto Books", "Sorts your bank transactions for the accountant and lear
          badge="Free · no sign-up")
 
 CATS = sorted(S.VAT)
-st.markdown("""<style>
-.bars { display: grid; gap: 7px; margin: 4px 0 8px; }
-.bar { display: grid; grid-template-columns: minmax(120px, 34%) 1fr 72px; align-items: center; gap: 10px; font-size: 14px; }
-.bar span { color: var(--k-ink); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.bar div { height: 12px; background: var(--k-line); border-radius: 6px; overflow: hidden; }
-.bar i { display: block; height: 100%; background: var(--k-go); border-radius: 6px; }
-.bar b { text-align: right; font-variant-numeric: tabular-nums; font-weight: 600; color: var(--k-ink); }
-</style>""", unsafe_allow_html=True)
 
 
 @st.cache_data(show_spinner=False)
@@ -91,21 +83,16 @@ with tab_sort:
     income = s.amount[s.amount > 0].sum()
     spend = -s.amount[(s.amount < 0) & ~s.suggested.isin(["Owner transfers", "Loan repayment", "Taxes"])].sum()
 
-    with st.container(border=True):
-        if len(todo):
-            st.markdown(f"### {done} of {len(s)} transactions sorted. {len(todo)} need you.")
-            st.markdown(f"It left {'these' if len(todo) > 1 else 'this one'} because it isn't sure, usually a supplier it hasn't seen before. "
-                        "Pick the right category below and it learns them.")
-        else:
-            st.markdown(f"### All {len(s)} transactions for {label} are sorted ✅")
-            st.markdown("Ready for the accountant: download the file below.")
-        m = st.columns(4)
-        m[0].metric("Money in", money(income))
-        m[1].metric("Business costs", money(spend), help="Without tax payments, loan repayments and owner transfers.")
-        m[2].metric("VAT to pay, rough", money(vat["to_pay"]),
-                    help=f"VAT in sales {money(vat['sales_vat'])} minus VAT you can reclaim on purchases "
-                         f"{money(vat['reclaimable_vat'])}. Standard rates per category; the accountant confirms it.")
-        m[3].metric("Left to check", len(todo))
+    tiles = [("Money in", money(income)), ("Business costs", money(spend)), ("VAT to pay, rough", money(vat["to_pay"])),
+             ("Left to check", str(len(todo)))]
+    if len(todo):
+        kit.answer(label[:1].upper() + label[1:], f"{done} of {len(s)} transactions sorted. {len(todo)} need you.",
+                   f"It left {'these' if len(todo) > 1 else 'this one'} because it isn't sure, usually a supplier it hasn't "
+                   "seen before. Pick the right category below and it learns them.", tiles)
+    else:
+        kit.answer(label[:1].upper() + label[1:], f"All {len(s)} transactions are sorted",
+                   "Ready for the accountant: download the file below. The VAT figure is a rough guide; "
+                   "the accountant confirms it.", tiles)
 
     if len(todo):
         st.markdown("#### Needs you")
@@ -125,10 +112,7 @@ with tab_sort:
         st.markdown("#### Where the money went")
         biz = s[(s.amount < 0) & ~s.suggested.isin(["Owner transfers", "Loan repayment", "Taxes"])]
         costs = biz.groupby("suggested").amount.sum().abs().sort_values(ascending=False)
-        top = costs.max() or 1
-        st.markdown("<div class='bars'>" + "".join(
-            f"<div class='bar'><span>{k}</span><div><i style='width:{v / top * 100:.1f}%'></i></div><b>{money(v)}</b></div>"
-            for k, v in costs.items()) + "</div>", unsafe_allow_html=True)
+        kit.bars([{"label": k, "value": v, "text": money(v)} for k, v in costs.items()])
         st.caption("Business costs only. Taxes, loan repayments and owner transfers are left out.")
     with right:
         st.markdown("#### What it learned this session")
