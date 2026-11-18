@@ -1,4 +1,5 @@
 """Auto Books: sorts a month of bank transactions into accounting categories. Run: streamlit run app.py"""
+import html
 import importlib
 
 import pandas as pd
@@ -10,7 +11,7 @@ import sorter as S
 S = importlib.reload(S)  # Streamlit Cloud keeps old copies of imported files after an update; always use the latest
 kit = importlib.reload(kit)
 
-kit.page("Auto Books", "Sorts your bank transactions for the accountant and learns from every fix", mark="📒",
+kit.page("Auto Books", "Sorts your bank transactions for the accountant and learns from every fix", mark="book", icon="📒",
          meta="For small companies and their accountants · no AI service, nothing leaves the app",
          badge="Free · no sign-up")
 
@@ -96,15 +97,21 @@ with tab_sort:
 
     if len(todo):
         st.markdown("#### Needs you")
-        ed = st.data_editor(
-            todo[["date", "description", "amount", "suggested"]].rename(columns={"suggested": "category"}),
-            hide_index=True, width="stretch", disabled=["date", "description", "amount"], key=f"ed_{month}",
-            column_config={"category": st.column_config.SelectboxColumn("Category (best guess, change it)", options=CATS,
-                                                                        required=True),
-                           "amount": st.column_config.NumberColumn(format="%.2f")})
-        if st.button(f"✓  Confirm these {len(todo)} and re-sort", type="primary"):
-            for _, r in ed.iterrows():
-                st.session_state.fixes[(r.description, r.amount)] = r.category
+        st.caption("Its best guess is filled in. Change any that are wrong, then confirm.")
+        picks = {}
+        for i, r in todo.head(30).iterrows():
+            with st.container(border=True):
+                a, b, c = st.columns([5, 2, 4], vertical_alignment="center")
+                a.markdown(f"<div class='k-row-desc'>{html.escape(r.description)}</div>"
+                           f"<div class='k-row-sub'>{r.date} · {r.confidence:.0%} sure</div>", unsafe_allow_html=True)
+                b.markdown(f"<div style='text-align:right;font-weight:800'>{r.amount:,.2f} €</div>", unsafe_allow_html=True)
+                picks[i] = c.selectbox("Category", CATS, index=CATS.index(r.suggested), key=f"pick_{month}_{i}",
+                                       label_visibility="collapsed")
+        if len(todo) > 30:
+            st.caption(f"Showing the first 30 of {len(todo)}.")
+        if st.button(f"✓  Confirm {'these ' + str(len(picks)) if len(picks) > 1 else 'this one'} and re-sort", type="primary"):
+            for i, cat in picks.items():
+                st.session_state.fixes[(todo.loc[i, "description"], todo.loc[i, "amount"])] = cat
             st.rerun()
 
     left, right = st.columns([3, 2], gap="large")
@@ -117,8 +124,8 @@ with tab_sort:
     with right:
         st.markdown("#### What it learned this session")
         if st.session_state.fixes:
-            st.dataframe(pd.DataFrame([{"Transaction": d, "Category": c} for (d, _), c in st.session_state.fixes.items()]),
-                         hide_index=True, width="stretch", height=240)
+            kit.table([{"t": d, "c": c} for (d, _), c in st.session_state.fixes.items()],
+                      [kit.col("Transaction", "t"), kit.col("Category", "c", "chip", {})], max_height=300)
             if st.button("Forget my fixes"):
                 st.session_state.fixes = {}
                 st.rerun()
@@ -129,10 +136,13 @@ with tab_sort:
     with st.expander(f"All {len(s)} transactions"):
         show = s[["date", "description", "amount", "suggested", "confidence", "status"]].rename(
             columns={"suggested": "category"})
-        st.dataframe(show, hide_index=True, width="stretch", height=360,
-                     column_config={"amount": st.column_config.NumberColumn(format="%.2f"),
-                                    "confidence": st.column_config.ProgressColumn("sure", format="%.0f%%",
-                                                                                  min_value=0, max_value=1)})
+        kit.table([{"d": r.date, "t": r.description, "a": f"{r.amount:,.2f}", "c": r.category, "p": r.confidence,
+                    "s": {"sorted": "Sorted", "to check": "To check", "fixed": "Fixed by you"}[r.status]}
+                   for r in show.itertuples()],
+                  [kit.col("Date", "d", "muted"), kit.col("Description", "t", "strong"), kit.col("Amount €", "a", "num"),
+                   kit.col("Category", "c"), kit.col("How sure", "p", "meter"),
+                   kit.col("Status", "s", "chip", {"Sorted": "good", "To check": "warn", "Fixed by you": "info"})],
+                  max_height=420)
         st.download_button("Download for the accountant (CSV)", show.to_csv(index=False).encode("utf-8"),
                            file_name=f"sorted-{month}.csv", mime="text/csv", type="primary")
 
@@ -140,19 +150,19 @@ with tab_test:
     c = curve()
     first, last = c.iloc[0], c.iloc[-1]
     wrong = int(c.wrong_auto.sum())
-    st.markdown(f"#### It sorted {first.auto:.0%} on its own in the first month and {last.auto:.0%} by the third, "
-                f"with {wrong} mistakes in what it sorted alone.")
-    st.markdown("The test copies real use. It learned from 9 months a bookkeeper had already sorted, then got the next "
-                "3 months one at a time, which it had never seen. Those months bring in suppliers it didn't know "
-                "(a new fuel station, Wolt, Ryanair, a new phone operator). After each month, the bookkeeper fixed what "
-                "it left to check, and it learned from that before the next month.")
-    m = st.columns(3)
-    m[0].metric("Sorted alone, month 3", f"{last.auto:.0%}", f"{(last.auto - first.auto) * 100:+.0f} pts since month 1")
-    m[1].metric("Right, when it sorted alone", f"{c.auto_right.min():.0%}")
-    m[2].metric("Left to check, month 3", int(last.to_check), help="Out of " + str(int(last.rows)))
-    st.table(pd.DataFrame({"Month": [pd.Timestamp(x + "-01").strftime("%B %Y") for x in c.month],
-                           "Transactions": c.rows, "Sorted alone": [f"{x:.0%}" for x in c.auto],
-                           "Left to check": c.to_check, "Sorted wrongly": c.wrong_auto}).set_index("Month"))
+    kit.answer("Tested on 3 months it never saw",
+               f"It sorted {first.auto:.0%} on its own in month 1 and {last.auto:.0%} by month 3",
+               f"With <b>{wrong} mistakes</b> in what it sorted alone. It learned from 9 months a bookkeeper had already "
+               "sorted, then got the next 3 months one at a time, with suppliers it didn't know (a new fuel station, "
+               "Wolt, Ryanair, a new phone operator). After each month the bookkeeper fixed what it left to check, and it "
+               "learned from that before the next.",
+               [("Sorted alone, month 3", f"{last.auto:.0%}"), ("Right when it sorted alone", f"{c.auto_right.min():.0%}"),
+                ("Left to check, month 3", f"{int(last.to_check)} of {int(last.rows)}")])
+    st.markdown("#### Month by month")
+    kit.table([{"m": pd.Timestamp(x.month + "-01").strftime("%B %Y"), "n": int(x.rows), "a": x.auto,
+                "t": int(x.to_check), "w": int(x.wrong_auto)} for x in c.itertuples()],
+              [kit.col("Month", "m", "strong"), kit.col("Transactions", "n", "num"), kit.col("Sorted alone", "a", "meter"),
+               kit.col("Left to check", "t", "num"), kit.col("Sorted wrongly", "w", "num")])
     st.caption(f"It only sorts on its own when it is at least {S.SURE:.0%} sure; everything else goes to a person. "
                "The data is an invented year for a small Latvian company (about 55 transactions a month) in mixed "
                "Latvian and English, written the way bank exports look. Real books will be messier, so measure on your "
