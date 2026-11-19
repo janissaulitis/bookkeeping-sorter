@@ -13,7 +13,7 @@ kit = importlib.reload(kit)
 
 kit.page("Auto Books", "Sorts your bank transactions for the accountant and learns from every fix", mark="book", icon="📒",
          meta="For small companies and their accountants · no AI service, nothing leaves the app",
-         badge="Free · no sign-up")
+         badge="Free · no sign-up", theme="brutal")
 
 CATS = sorted(S.VAT)
 
@@ -87,11 +87,12 @@ with tab_sort:
     tiles = [("Money in", money(income)), ("Business costs", money(spend)), ("VAT to pay, rough", money(vat["to_pay"])),
              ("Left to check", str(len(todo)))]
     if len(todo):
-        kit.answer(label[:1].upper() + label[1:], f"{done} of {len(s)} transactions sorted. {len(todo)} need you.",
+        kit.answer("Sorted for you", f"{html.escape(label[:1].upper() + label[1:].split(' ')[0])}: {done} of {len(s)} sorted. "
+                   f"<mark>{len(todo)} need{'s' if len(todo) == 1 else ''} you.</mark>",
                    f"It left {'these' if len(todo) > 1 else 'this one'} because it isn't sure, usually a supplier it hasn't "
-                   "seen before. Pick the right category below and it learns them.", tiles)
+                   "seen before. Pick the right category below and it learns them.", tiles, raw=True)
     else:
-        kit.answer(label[:1].upper() + label[1:], f"All {len(s)} transactions are sorted",
+        kit.answer("Sorted for you", f"All {len(s)} transactions are sorted",
                    "Ready for the accountant: download the file below. The VAT figure is a rough guide; "
                    "the accountant confirms it.", tiles)
 
@@ -113,6 +114,7 @@ with tab_sort:
             for i, cat in picks.items():
                 st.session_state.fixes[(todo.loc[i, "description"], todo.loc[i, "amount"])] = cat
             st.rerun()
+        st.caption("Next month it sorts these suppliers by itself.")
 
     left, right = st.columns([3, 2], gap="large")
     with left:
