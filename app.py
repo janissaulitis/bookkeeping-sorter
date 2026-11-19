@@ -1,5 +1,5 @@
-import os
 """Auto Books: sorts a month of bank transactions into accounting categories. Run: streamlit run app.py"""
+import os
 import html
 import importlib
 
