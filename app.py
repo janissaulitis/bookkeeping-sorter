@@ -1,3 +1,4 @@
+import os
 """Auto Books: sorts a month of bank transactions into accounting categories. Run: streamlit run app.py"""
 import html
 import importlib
@@ -14,6 +15,9 @@ kit = importlib.reload(kit)
 kit.page("Auto Books", "Sorts your bank transactions for the accountant and learns from every fix", mark="book", icon="📒",
          meta="For small companies and their accountants · no AI service, nothing leaves the app",
          badge="Free · no sign-up", theme="brutal")
+
+kit.demo(os.environ.get("DEMO_VIDEO", "https://janis-saulitis-portfolio.netlify.app/media/books.mp4"), "Auto Books in 1 minute",
+         "1. Use the **sample company** or upload your bank export.\n2. It sorts every transaction and leaves the ones it isn't sure about for you.\n3. Check its guesses and **confirm**: next month it sorts those suppliers by itself.\n4. **How well it sorts** shows the test on 3 months it never saw.")
 
 CATS = sorted(S.VAT)
 
