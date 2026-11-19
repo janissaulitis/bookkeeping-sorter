@@ -1,0 +1,94 @@
+AUTO BOOKS
+
+Sorts your bank transactions for the accountant and learns from every fix
+FREE · NO SIGN-UP
+For small companies and their accountants · no AI service, nothing leaves the app
+
+▶ 1-MIN DEMO
+
+How it works
+
+expand_more
+
+Sort a month
+
+How well it sorts
+
+Sample company
+
+Upload your bank export
+
+SORTED FOR YOU
+
+October: 63 of 67 sorted. 4 need you.
+
+It left these because it isn't sure, usually a supplier it hasn't seen before. Pick the right category below and it learns them.
+MONEY IN
+€31,749
+BUSINESS COSTS
+€7,746
+VAT TO PAY, ROUGH
+€4,906
+LEFT TO CHECK
+4
+Needs you
+
+Its best guess is filled in. Change any that are wrong, then confirm.
+
+airBaltic 21A865
+2026-10-17 · 28% sure
+-99.75 €
+Rimi Hiper biroja preces 8599
+2026-10-24 · 59% sure
+-30.66 €
+Bite Latvija rēķins 937584
+2026-10-25 · 66% sure
+-39.37 €
+Wolt order 89Y579
+2026-10-27 · 59% sure
+-42.66 €
+
+✓ CONFIRM THESE 4 AND RE-SORT
+
+Next month it sorts these suppliers by itself.
+
+Where the money went
+Salaries
+€3,893
+Marketing
+€1,167
+Rent
+€850
+Fuel and car
+€684
+Software and subscriptions
+€279
+Accounting and legal
+€220
+Office supplies
+€198
+Meals and hospitality
+€131
+Phone and internet
+€115
+Utilities
+€113
+Insurance
+€45
+Travel
+€42
+Bank fees
+€10
+
+Business costs only. Taxes, loan repayments and owner transfers are left out.
+
+What it learned this session
+
+Nothing yet. Every category you confirm is added to what it learns from, so next month the same supplier is sorted automatically.
+
+keyboard_arrow_right
+
+All 67 transactions
+
+Built by Jānis Saulītis with AI · sorter.py · learns on your data, runs in the app
+See more tools
